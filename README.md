@@ -1,12 +1,16 @@
-<div align="center">
-  <img src="./414.WEBP" width="700px" alt="NexChannel" />
-</div>
-#About
+# About
+
 ## Hi am a Human
 
-##Description
+I am just a student who always wants to learn new things.
 
-I am just a student who always wants to learn new things
+## Description
+
+I am passionate about technology, programming, and exploring new things.
+
+## Links
+
+- [GitHub](https://github.com/NexChannel)
 
 <!--
 **NexChannel/NexChannel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
