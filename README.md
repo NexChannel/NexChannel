@@ -1,9 +1,10 @@
 <div align="center">
   <img src="./414.WEBP" width="700px" alt="NexChannel" />
 </div>
+#About
 ## Hi am a Human
 
-
+##Description
 
 I am just a student who always wants to learn new things
 
