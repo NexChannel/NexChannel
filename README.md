@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi am a Human
+
+
+
+I am just a student who always wants to learn new things
 
 <!--
 **NexChannel/NexChannel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
